@@ -165,9 +165,9 @@ CLI que lê extratos bancários em CSV e gera relatórios financeiros. A mesma l
 <!-- RECENT_REPOS:START -->
 | Repositório | Descrição | Linguagem | Atualizado |
 |---|---|:---:|:---:|
+| [**cartola-varzea**](https://github.com/pedromeireles23/cartola-varzea) | ⚽ Fantasy game para campeonatos amadores de futebol (Fut7, futsal e campo) — .NET 10, Angular 22 e SQL Server. | `C#` | 02/10/2026 |
+| [**site-creativo**](https://github.com/pedromeireles23/site-creativo) | 🌳 Floresta Viva — experiência digital cinematográfica sobre a Amazônia, com Next.js, GSAP e Lenis. · [🔗 demo](https://floresta-viva-experiencia.vercel.app) | `TypeScript` | 01/10/2026 |
 | [**segundo-cerebro-ia**](https://github.com/pedromeireles23/segundo-cerebro-ia) | 🧠 Assistente de IA 100% local (llama.cpp) com memória de longo prazo em um vault Obsidian: curadoria… | `Python` | 01/10/2026 |
-| [**cartola-varzea**](https://github.com/pedromeireles23/cartola-varzea) | ⚽ Fantasy game para campeonatos amadores de futebol (Fut7, futsal e campo) — .NET 10, Angular 22 e SQL Server. | `C#` | 29/09/2026 |
-| [**site-creativo**](https://github.com/pedromeireles23/site-creativo) | 🌳 Floresta Viva — experiência digital cinematográfica sobre a Amazônia, com Next.js, GSAP e Lenis. · [🔗 demo](https://floresta-viva-experiencia.vercel.app) | `TypeScript` | 24/09/2026 |
 | [**apexwebsite**](https://github.com/pedromeireles23/apexwebsite) | 🎯 Arquivo de Lendas — arquivo interativo das Lendas de Apex Legends, feito com Next.js e TypeScript. · [🔗 demo](https://arquivo-de-lendas.vercel.app) | `TypeScript` | 23/09/2026 |
 | [**jogo**](https://github.com/pedromeireles23/jogo) | 🎮 O Chamado da Torre — RPG de ação em fantasia medieval feito em Unity 6 (em desenvolvimento). | — | 19/09/2026 |
 | [**portfolio-new**](https://github.com/pedromeireles23/portfolio-new) | Novo portfólio pessoal com Next.js, MDX, GSAP e Lenis (em construção). | `CSS` | 31/08/2026 |
