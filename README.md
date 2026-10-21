@@ -169,8 +169,8 @@ CLI que lê extratos bancários em CSV e gera relatórios financeiros. A mesma l
 | [**site-creativo**](https://github.com/pedromeireles23/site-creativo) | 🌳 Floresta Viva — experiência digital cinematográfica sobre a Amazônia, com Next.js, GSAP e Lenis. · [🔗 demo](https://floresta-viva-experiencia.vercel.app) | `TypeScript` | 01/10/2026 |
 | [**segundo-cerebro-ia**](https://github.com/pedromeireles23/segundo-cerebro-ia) | 🧠 Assistente de IA 100% local (llama.cpp) com memória de longo prazo em um vault Obsidian: curadoria… | `Python` | 01/10/2026 |
 | [**apexwebsite**](https://github.com/pedromeireles23/apexwebsite) | 🎯 Arquivo de Lendas — arquivo interativo das Lendas de Apex Legends, feito com Next.js e TypeScript. · [🔗 demo](https://arquivo-de-lendas.vercel.app) | `TypeScript` | 23/09/2026 |
-| [**jogo**](https://github.com/pedromeireles23/jogo) | 🎮 O Chamado da Torre — RPG de ação em fantasia medieval feito em Unity 6 (em desenvolvimento). | — | 19/09/2026 |
 | [**portfolio-new**](https://github.com/pedromeireles23/portfolio-new) | Novo portfólio pessoal com Next.js, MDX, GSAP e Lenis (em construção). | `CSS` | 31/08/2026 |
+| [**ApiGestaoTarefas**](https://github.com/pedromeireles23/ApiGestaoTarefas) | ✅ API REST multi-tenant de gestão de tarefas corporativas — .NET 10, EF Core, PostgreSQL e JWT. | `C#` | 02/06/2026 |
 <!-- RECENT_REPOS:END -->
 
 <sub>Lista atualizada automaticamente todos os dias por um [GitHub Action](.github/workflows/update-readme.yml).</sub>
